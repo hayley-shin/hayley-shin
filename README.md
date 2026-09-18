@@ -1,4 +1,4 @@
-<h1 align="center">Hayley Shin</h1>
+<h1 align="center">Haeyoon (Hayley) Shin</h1>
 
 <p align="center">
   <b>M.S. Student in Statistics & Data Science at Yale University</b>
