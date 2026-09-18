@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1 align="center">Hayley Shin</h1>
 
-<!--
-**hayley-shin/hayley-shin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>M.S. Student in Statistics & Data Science at Yale University</b>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  Research interests in AI, causal inference, and computational social science
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://img.shields.io/badge/Information%20Systems-455A64?style=flat-square" />
+  <img src="https://img.shields.io/badge/Digital%20Innovation-536878?style=flat-square" />
+  <img src="https://img.shields.io/badge/Digital%20Markets-607D8B?style=flat-square" />
+  <img src="https://img.shields.io/badge/Healthcare-546E7A?style=flat-square" />
+</p>
+
