@@ -5,7 +5,8 @@
 </p>
 
 <p align="center">
-  Research interests in AI, causal inference, and computational social science
+  Interested in the adoption and use of digital technologies and platforms<br>
+  and their impact on individuals, organizations, and markets
 </p>
 
 <p align="center">
